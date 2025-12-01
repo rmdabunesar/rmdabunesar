@@ -18,8 +18,8 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 ⤷ Figma <br>
 
 ## ✅ Projects
-⤷ ahnCommerce Theme <br>
-⤷ Consultant Booking Plugin <br>
+⤷ **WordPress Theme:** 1. ahnCommerce <br>
+⤷ **WordPress Plugin:** 1. Consultant Booking <br>
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
