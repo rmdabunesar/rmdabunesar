@@ -1,7 +1,7 @@
 ## Hi, I'm Abu Nesar 👋
 [<img src='https://github.com/rmdabunesar/rmdabunesar/blob/main/rmdabunesar-github-banner.png?raw=true' alt='Abu Nesar'>](https://github.com/rmdabunesar/)
 
-## 🧩 Web Developer & Designer 🧩 WordPress & Shopify Expert 🧩 Custom Theme & Plugin Developer
+**Web Developer & Designer** 🧩 **WordPress & Shopify Expert** 🧩 **Custom Theme & Plugin Developer**
 
 ## ✅ About Me
 Full-stack developer focused on building bespoke web experiences. I specialize in custom theme and plugin development for WordPress and Shopify, ensuring pixel-perfect, responsive, and scalable results. My workflow connects Figma design with robust development using PHP, JavaScript, and modern front-end tools. 
