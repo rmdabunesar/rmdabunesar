@@ -16,7 +16,6 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
