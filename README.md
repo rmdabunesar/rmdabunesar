@@ -19,12 +19,10 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 ⤷ HTML5 / CSS3 / SASS / Bootstrap <br>
 ⤷ Figma <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdabunesar&layout=compact)
-
 
 ## ☕ Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rmdabunesar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rmdabunesar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rmdabunesar.ig)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/MdNesar12015260)  
 
 
 ## ✅ For Business Inquiries 
-📩 shovoalways@gmail.com
+📩 rmdabunesar@gmail.com
