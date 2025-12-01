@@ -13,6 +13,7 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 ⤷ WordPress <br>
 ⤷ MySQL <br>
 ⤷ PHP <br>
+⤷ React <br>
 ⤷ JavaScript <br>
 ⤷ HTML5 / CSS3 / SASS / Bootstrap <br>
 ⤷ Figma <br>
