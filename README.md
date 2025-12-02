@@ -18,7 +18,7 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-<img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/shopify-22004F?logo=shopify"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma"> 
+<img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/shopify-22004F?logo=shopify"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 ## ✅ Projects
 🔹**WordPress Theme:** ahnCommerce <br>
 🔹**WordPress Plugin:** Consultant Booking <br>
