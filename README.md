@@ -28,8 +28,8 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 🔹 **Fiverr** <br>
 🔹 **Upwork** <br>
 
-## ✅ Follow on!
+## ✅ Follow on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/rmdabunesar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rmdabunesar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/rmdabunesar.ig)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://x.com/MdNesar12015260)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'>](https://www.youtube.com/channel/https://www.youtube.com/@AHNSolution-zg4sp) 
 
-## ✅ For Business Inquiries 
+## ✅ Business Inquiry
 📩 rmdabunesar@gmail.com
