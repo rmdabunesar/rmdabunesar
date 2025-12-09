@@ -22,7 +22,7 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 ## ✅ Projects
 | 🧩 Project | 🛠️ Tech Stack | 💼 Category | 📝 Description | 🔗 Live |
 |-----------|---------------|------------|----------------|--------|
-| **Custom WordPress Booking System** | WordPress, PHP, jQuery, MySQL | WordPress Plugin | A dynamic consultant booking system with CPTs, AJAX validation & payment gateway. | <a href="https://example.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
+| **Custom WordPress Booking System** | WordPress, PHP, jQuery, MySQL | WordPress Plugin | A dynamic consultant booking system with CPTs, AJAX validation & payment gateway. | <a href="https://example.com"><img src="https://img.shields.io/badge/VIEW%20SITE%20%3E-%230077b5?style=for-the-badge&logo=website&logoColor=white" width="150px" /></a> |
 | **WooCommerce Fashion Store** | WooCommerce, PHP, JS, REST API | E-commerce | Fully customized WooCommerce fashion store with coupons, variations & Apple Pay. | <a href="https://example.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
 | **Shopify T-Shirt Store** | Shopify, Liquid, JavaScript | Shopify Store | Modern Shopify store with custom sections, filters & advanced cart drawer. | <a href="https://example.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
 | **Landing Page Builder Plugin** | WordPress, PHP, ACF, TailwindCSS | WordPress Plugin | Drag-and-drop landing page builder using ACF Flexible Content. | <a href="https://example.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
