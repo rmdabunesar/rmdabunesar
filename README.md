@@ -20,8 +20,13 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 ## ✅ Projects
-🔹**WordPress Theme:** ahnCommerce <br>
-🔹**WordPress Plugin:** Consultant Booking <br>
+
+| Project | Description | Link |
+|---------|-------------|------|
+| E-commerce Store | A WooCommerce-based online shop | 🔗 https://github.com/username/portfolio |
+| E-commerce Store | A WooCommerce-based online shop | 🔗 https://github.com/username/ecommerce-store |
+| E-commerce Store | A WooCommerce-based online shop | 🔗 https://github.com/username/chat-app |
+
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
