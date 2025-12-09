@@ -20,11 +20,12 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 ## ✅ Projects
-| 🧩 Project       | 🛠️ Tech Stack           | 💼 Category       | 📝 Description                                                                 | 🔗 Live |
-|-----------------|------------------------|-----------------|-------------------------------------------------------------------------------|--------|
-| **Rupai Food**  | WordPress, WooCommerce | E-commerce Store | • Fruit selling store<br>• Payment gateway integrated<br>• Elegant & responsive design | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
-| **TechStore**   | WooCommerce, PHP       | E-commerce Store | • Electronics store<br>• Secure checkout<br>• Mobile-friendly UI              | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://techstore.com) |
-| **BlogMaster**  | WordPress, Elementor   | Blog/Portfolio  | • Personal blog<br>• SEO optimized<br>• Fast loading theme                     | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://blogmaster.com) |
+| 🧩 Project             | 🛠️ Tech Stack             | 💼 Category       | 📝 Description                                                    | 🔗 Live |
+|------------------------|--------------------------|------------------|------------------------------------------------------------------|--------|
+| **The Plant Base**     | WordPress, WooCommerce   | E-commerce Store | • Plant & garden supplies<br>• Online orders & delivery          | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://www.theplantbase.com) |
+| **Blue Star Coffee**   | WordPress, WooCommerce   | E-commerce Store | • Premium coffee beans & gear<br>• Responsive, mobile-first shop | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://bluestarcoffee.com) |
+| **Allbirds**           | Shopify                  | E-commerce Store | • Sustainable shoes & apparel<br>• Global shipping              | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://www.allbirds.com) |
+| **Gymshark**           | Shopify                  | E-commerce Store | • Fitness apparel & accessories<br>• High‑performance user UI   | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://www.gymshark.com) |
 
 
 ## ✅ Experiance 
