@@ -20,16 +20,13 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 ## ✅ Projects
-
-| 🧩 Project | 🛠️ Tech Stack | 💼 Category | 📝 Description | 🔗 Link |
+| 🧩 Project | 🛠️ Tech Stack | 💼 Category | 📝 Description | 🔗 Live |
 |-----------|---------------|------------|----------------|--------|
-| **Custom WordPress Booking System** | WordPress, PHP, jQuery, MySQL | WordPress Plugin | A fully dynamic consultant booking system with custom post types, AJAX forms, and payment integration. | 🔗 https://github.com/username/wp-booking-system |
-| **WooCommerce Fashion Store** | WooCommerce, PHP, JS, REST API | E-commerce | Custom-coded store with variations, coupons, cart customization, and Tap/Apple Pay gateway. | 🔗 https://github.com/username/fashion-woocommerce |
-| **Shopify T-Shirt Store** | Shopify, Liquid, JS | Shopify Store | Modern Shopify store with custom sections, product filters, and enhanced cart drawer. | 🔗 https://github.com/username/shopify-tshirt-store |
-| **Landing Page Builder Plugin** | WordPress, PHP, ACF, TailwindCSS | WordPress Plugin | Drag-and-drop landing page builder with reusable components and custom blocks. | 🔗 https://github.com/username/wp-landing-builder |
-| **Shopify Theme Customization** | Liquid, CSS, JavaScript | Shopify Theme | Optimized Shopify theme with custom product page layout and dynamic upsells. | 🔗 https://github.com/username/shopify-theme-custom |
-
-
+| **Custom WordPress Booking System** | WordPress, PHP, jQuery, MySQL | WordPress Plugin | A dynamic consultant booking system with CPTs, AJAX validation & payment gateway. | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://example.com) |
+| **WooCommerce Fashion Store** | WooCommerce, PHP, JS, REST API | E-commerce | Fully customized WooCommerce fashion store with coupons, variations & Apple Pay. | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://example.com) |
+| **Shopify T-Shirt Store** | Shopify, Liquid, JavaScript | Shopify Store | Modern Shopify store with custom sections, filters & advanced cart drawer. | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://example.com) |
+| **Landing Page Builder Plugin** | WordPress, PHP, ACF, TailwindCSS | WordPress Plugin | Drag-and-drop landing page builder using ACF Flexible Content. | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://example.com) |
+| **Shopify Theme Customization** | Liquid, CSS, JS | Shopify Theme | Custom product templates, optimized performance & dynamic upsells. | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://example.com) |
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
