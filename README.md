@@ -22,10 +22,9 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 ## ✅ Projects
 | 🧩 Project | 🛠️ Tech Stack | 💼 Category | 📝 Description | 🔗 Live |
 |-----------|---------------|------------|----------------|--------|
-| **Rupai Food** | WooCommerce, PHP, JS, REST API | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
-| **Rupai Food** | WooCommerce, PHP, JS, REST API | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
-| **Rupai Food** | WooCommerce, PHP, JS, REST API | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
-| **Rupai Food** | WooCommerce, PHP, JS, REST API | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
+| **Rupai Food** | WordPress, WooCommerce | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
+| **Rupai Food** | WordPress, WooCommerce | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
+| **Rupai Food** | WordPress, WooCommerce | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
