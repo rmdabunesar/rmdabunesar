@@ -20,11 +20,12 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 ## ✅ Projects
-| 🧩 Project | 🛠️ Tech Stack | 💼 Category | 📝 Description | 🔗 Live |
-|-----------|---------------|------------|----------------|--------|
-| **Rupai Food** | WordPress, WooCommerce | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
-| **Rupai Food** | WordPress, WooCommerce | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
-| **Rupai Food** | WordPress, WooCommerce | E-commerce | • Fruit selling store, • Payment gatewaty integrated, • Elegant & responsive design | <a href="https://rupaifood.com"><img src="https://img.shields.io/badge/VIEW%20SITE-2ea44f?style=for-the-badge" width="150px"></a> |
+| 🧩 Project       | 🛠️ Tech Stack           | 💼 Category       | 📝 Description                                                                 | 🔗 Live |
+|-----------------|------------------------|-----------------|-------------------------------------------------------------------------------|--------|
+| **Rupai Food**  | WordPress, WooCommerce | E-commerce Store | • Fruit selling store<br>• Payment gateway integrated<br>• Elegant & responsive design | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
+| **TechStore**   | WooCommerce, PHP       | E-commerce Store | • Electronics store<br>• Secure checkout<br>• Mobile-friendly UI              | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://techstore.com) |
+| **BlogMaster**  | WordPress, Elementor   | Blog/Portfolio  | • Personal blog<br>• SEO optimized<br>• Fast loading theme                     | [![View Site >](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://blogmaster.com) |
+
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
