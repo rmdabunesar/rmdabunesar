@@ -23,7 +23,7 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 | Project Name       | Technology Used | Project Type      | Key Features                                         | Live Demo |
 |------------------|----------------|-----------------|----------------------------------------------------|-----------|
 | **Rupai Food** | WordPress | E-commerce Store | Fruit selling • Payment gateway • Responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
-| **AGS Limousine** | WordPress | Car Rental Site | Online booking • Booking system • Mobile-friendly UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) |
+| **AGS Limousine** | WordPress | Car Rental Site | Car booking • Booking system • Mobile-friendly UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) |
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
