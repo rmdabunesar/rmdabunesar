@@ -19,11 +19,11 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
-## ✅ Projects
-| 🧩 Project       | 🛠️ Tech Stack           | 💼 Category       | 📝 Description                                                                 | 🔗 Live |
-|-----------------|------------------------|-----------------|-------------------------------------------------------------------------------|--------|
-| **Rupai Food**  | WordPress | E-commerce Store | • Fruit selling store<br>• Payment gateway integrated<br>• Elegant & responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
-| **AGS Limousine**   | Wordpress | Car Rental Website | • Can Booking Website<br>• Booking System<br>• Mobile-friendly UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) |
+## ✅ Portfolio
+| Project Name       | Technology Used | Project Type      | Key Features                                         | Live Demo |
+|------------------|----------------|-----------------|----------------------------------------------------|-----------|
+| **Rupai Food**    | WordPress       | E-commerce Store | Fruit selling • Payment gateway • Responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) 🔗 |
+| **AGS Limousine** | WordPress       | Car Rental Site  | Online booking • Booking system • Mobile-friendly UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) 🔗 |
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
