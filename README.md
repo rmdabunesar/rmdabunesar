@@ -6,13 +6,13 @@
 [<img src='https://github.com/rmdabunesar/rmdabunesar/blob/main/github-banner.png?raw=true' alt='Abu Nesar'>](https://github.com/rmdabunesar/)
 
 ## ✅ About Me
-Full-stack developer with 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 and 𝟏𝟎𝟎+ 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. I craft high-quality, bespoke web solutions with a strong focus on performance, scalability, and brand-aligned design.
+Full-stack developer with 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 and 𝟏𝟎𝟎+ 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. I create high-quality web solutions with a strong focus on performance, scalability, and designs that match your brand.
 
 I specialize in 𝐜𝐮𝐬𝐭𝐨𝐦 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐚𝐧𝐝 𝐒𝐡𝐨𝐩𝐢𝐟𝐲 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, including theme engineering, plugin/app development, and advanced e-commerce functionalities.
 
 My workflow bridges 𝐅𝐢𝐠𝐦𝐚-𝐭𝐨-𝐜𝐨𝐝𝐞 with precision—ensuring pixel-perfect interfaces, clean architecture, and mobile-first responsiveness.
 
-With expertise in 𝐏𝐇𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐋𝐢𝐪𝐮𝐢𝐝, and modern front-end tools, I deliver seamless, engineered-to-perfection digital experiences that help businesses grow and stand out online. 
+With expertise in 𝐏𝐇𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐋𝐢𝐪𝐮𝐢𝐝, and modern front-end tools, I deliver smooth, well-built digital experiences that help businesses grow and stand out online. 
 
 ## ✅ Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
