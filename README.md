@@ -20,7 +20,11 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 
-## ✅ Portfolio
+## ✅ Products
+🔹 **WordPress Theme:** ahnCommerce<br>
+🔹 **WordPress Plugin:** Consultant Booking<br>
+
+## ✅ Projects
 | 🧩 Project         | 🛠️ Tech Stack | 💼 Category          | 📝 Description                                                                 | 🔗 Live |
 |-------------------|---------------|-------------------|-------------------------------------------------------------------------------|--------|
 | **Rupai Food** | WordPress | E-commerce Store | • Fruit-selling eCommerce store<br>• Integrated payment gateway<br>• Elegant and responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
