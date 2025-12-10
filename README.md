@@ -8,7 +8,7 @@
 ## ✅ About Me
 Full-stack developer with 𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 and 𝟏𝟎𝟎+ 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. I create high-quality web solutions with a strong focus on performance, scalability, and designs that match your brand.
 
-I specialize in 𝐜𝐮𝐬𝐭𝐨𝐦 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐚𝐧𝐝 𝐒𝐡𝐨𝐩𝐢𝐟𝐲 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, including theme engineering, plugin/app development, and advanced e-commerce functionalities.
+I specialize in 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐚𝐧𝐝 𝐒𝐡𝐨𝐩𝐢𝐟𝐲, including theme & plugin/app development and advanced WooCommerce functionalities.
 
 My workflow bridges 𝐅𝐢𝐠𝐦𝐚-𝐭𝐨-𝐜𝐨𝐝𝐞 with precision—ensuring pixel-perfect interfaces, clean architecture, and mobile-first responsiveness.
 
