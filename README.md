@@ -6,7 +6,7 @@
 [<img src='https://github.com/rmdabunesar/rmdabunesar/blob/main/github-banner.png?raw=true' alt='Abu Nesar'>](https://github.com/rmdabunesar/)
 
 ## ✅ About Me
-Full-stack developer focused on building bespoke web experiences. I specialize in custom theme and plugin development for WordPress and Shopify, ensuring pixel-perfect, responsive, and scalable results. My workflow connects Figma design with robust development using PHP, JavaScript, and modern front-end tools. 
+Full-stack developer with 3+ years of experience and 100+ completed projects. I specialize in building bespoke web experiences — custom theme and plugin development for WordPress and Shopify, delivering pixel-perfect, responsive, and scalable results. My workflow seamlessly connects Figma design to robust code using PHP, JavaScript, and modern front-end tools. 
 
 ## ✅ Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
