@@ -25,7 +25,7 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 |-------------------|---------------|-------------------|-------------------------------------------------------------------------------|--------|
 | **Rupai Food** | WordPress | E-commerce Store | • Fruit selling store<br>• Payment gateway integrated<br>• Elegant & responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
 | **AGS Limousine** | WordPress | Car Rental Website | • Car booking website<br>• Booking system<br>• Mobile-friendly UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) |
-| **Nordic Digi** | WordPress | Agency Website | • Service selling website<br>• e-commerece system<br>• Eye-catching design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://nordicdigi.com) |
+| **Nordic Digi** | WordPress | Agency Website | • Service-based selling platform<br>• Integrated e-commerce system<br>• Modern, eye-catching design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://nordicdigi.com) |
 
 ## ✅ Experiance 
 🔹 **ahnSolution** <br>
