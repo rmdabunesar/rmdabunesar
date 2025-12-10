@@ -20,6 +20,11 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 
 <img src="https://img.shields.io/badge/wordpress-blue?logo=wordpress"> <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
 
+## ✅ Experiance 
+🔹 **ahnSolution** <br>
+🔹 **Fiverr** <br>
+🔹 **Upwork** <br>
+
 ## ✅ Products
 🔹 **WordPress Theme:** ahnCommerce<br>
 🔹 **WordPress Plugin:** Consultant Booking<br>
@@ -30,11 +35,6 @@ Full-stack developer focused on building bespoke web experiences. I specialize i
 | **Rupai Food** | WordPress | E-commerce Store | • Fruit-selling eCommerce store<br>• Integrated payment gateway<br>• Elegant and responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
 | **AGS Limousine** | WordPress | Car Rental Website | • Car rental & booking website<br>• Integrated online booking system<br>• Mobile-friendly, responsive UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) |
 | **Nordic Digi** | WordPress | Agency Website | • Service-based selling platform<br>• Integrated e-commerce system<br>• Modern, eye-catching design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://nordicdigi.com) |
-
-## ✅ Experiance 
-🔹 **ahnSolution** <br>
-🔹 **Fiverr** <br>
-🔹 **Upwork** <br>
 
 ## ✅ Follow on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/rmdabunesar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rmdabunesar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/rmdabunesar.ig)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/https://x.com/MdNesar12015260)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'>](https://www.youtube.com/channel/https://www.youtube.com/@AHNSolution-zg4sp) 
