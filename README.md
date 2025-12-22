@@ -41,7 +41,6 @@ With expertise in 𝐏𝐇𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐋�
 | **Rupai Food** | WordPress | E-commerce Store | • Fruit-selling eCommerce store<br>• Integrated payment gateway<br>• Elegant and responsive design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://rupaifood.com) |
 | **AGS Limousine** | WordPress | Car Rental Website | • Car rental & booking website<br>• Integrated online booking system<br>• Mobile-friendly, responsive UI | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://agsllimousine.com) |
 | **Nordic Digi** | WordPress | Agency Website | • Service-based selling platform<br>• Integrated e-commerce system<br>• Modern, eye-catching design | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://nordicdigi.com) |
-
 | **Prettywoodcraft** | WordPress | Ricket Selling Website | • Online ticket booking<br>• Secure payment system<br>• Integrated google reviews | [![View Site](https://img.shields.io/badge/View%20Site-2ea44f?style=for-the-badge)](https://prettywoodcraft.com/workshops) |
 
 ## ✅ Follow on
